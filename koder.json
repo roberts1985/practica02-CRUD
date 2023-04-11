@@ -1,0 +1,18 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Roberto",
+      "lastName": "Alberto",
+      "Age": "38",
+      "favoriteFood": "Chiles rellenos"
+    },
+    {
+      "id": 3,
+      "name": "Juana",
+      "lastName": "Rodríguez",
+      "Age": 21,
+      "favoriteFood": "Cochinita pivil"
+    }
+  ]
+}
